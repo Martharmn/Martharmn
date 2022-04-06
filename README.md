@@ -1,4 +1,5 @@
-![Marthell](https://user-images.githubusercontent.com/97124495/161889024-1ec91047-c671-4af4-8a02-9b0922344813.gif)
+<img src="https://user-images.githubusercontent.com/97124495/161889024-1ec91047-c671-4af4-8a02-9b0922344813.gif" / >
+
 ### Hi there 👋
 
 <!--
