@@ -1,16 +1,75 @@
 ### Hi there 👋
 
 <!--
-**Martharmn/Martharmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_______________________
+🖥️ Soy estudiante de la Universidad Autónoma Benito Juárez de Oaxaca, Actualmente tengo 19 años, soy técnico en diseño gráfico digital, me gusta la animación, diseño publicitario y diseño en general. Me encuentro cursando la carrera en la Lic. de computación. 
 
-Here are some ideas to get you started:
+_______________________
+🧑‍💼 Lenguajes que estoy aprendiendo
+- C++
+- Java Script (Actualmente  me lo encuentro aprendiendo gracias a ser autodidacta y a explicaciones de nuestro catedrático) 
+[jorrge.cruz@gmail.com ]()
+- Lua
+- C#
+####  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+_______________________
+🎯 Los programas que actualmente uso son:
+- SublimexText3D
+- Visual Studio Code
+- Photoshop
+- Adobe Indesing
+- Adobe after
+- Adobe ilustrator 
+- Animator 
+Entre otros
+
+_______________________
+ 🎨🖥️ ## Algo de lo que hago actualmente:
+- Diseño de logotipos para negocios
+
+- Animación de vídeo
+
+- Edición en imágenes y fotografías
+
+- Elaboración de personajes animados
+
+- Creación de páginas web
+
+- Elaboración de carteles, invitaciones, infografías, etc
+
+- Edición en imágenes bidimensionales y tridimensionales
+
+- Etc.
+
+
+c
+
+stock OBTENER_IDT(playerid,listitem)
+{
+    new slot,negls = 0;
+    for(new i = 0; i < 4; i++)
+    {
+        if(Info[playerid][Trabajo_Player][i] == 0) continue;
+        if(listitem <= negls)
+        {
+            slot = i;
+            break;
+        }
+        negls++;
+    }
+    return slot;
+}
+
+_______________________
+- 📫 Puede contactarme en: https://www.facebook.com/marthell.rowan
+Tel 9513299811 
+
+_______________________
+- 😄 Pronouns: ... Marthell Rowan 🦋
+
+_______________________
+- ⚡ Fun fact: ... 
+Alguna de las curiosidades del diseño gráfico en todo el mundo...
+La primera empresa dedicada al diseño fue la que creó William Morris, fundador del movimiento Art & Crafts, en 1891. Claude Garamond, autor de la famosa tipografía que lleva su propio apellido
 -->
