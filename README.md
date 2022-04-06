@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/97124495/161889024-1ec91047-c671-4af4-8a02-9b0922344813.gif" / >
+ ![Marthell](https://user-images.githubusercontent.com/97124495/161890815-beef39de-cad2-4757-a401-ab20d08e580c.gif)
 
 ### Hi there 👋
 
-<!--
+<
 _______________________  
 🖥️ Soy estudiante de la Universidad Autónoma Benito Juárez de Oaxaca, Actualmente tengo 19 años, soy técnico en diseño gráfico digital, me gusta la animación, diseño publicitario y diseño en general. Me encuentro cursando la carrera en la Lic. de computación. 
 
@@ -55,4 +55,4 @@ _______________________
 - ⚡ Fun fact: ... 
 Alguna de las curiosidades del diseño gráfico en todo el mundo...
 La primera empresa dedicada al diseño fue la que creó William Morris, fundador del movimiento Art & Crafts, en 1891. Claude Garamond, autor de la famosa tipografía que lleva su propio apellido
--->
+/>
