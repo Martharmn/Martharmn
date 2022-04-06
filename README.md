@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-_______________________
+_______________________  
 🖥️ Soy estudiante de la Universidad Autónoma Benito Juárez de Oaxaca, Actualmente tengo 19 años, soy técnico en diseño gráfico digital, me gusta la animación, diseño publicitario y diseño en general. Me encuentro cursando la carrera en la Lic. de computación. 
 
 _______________________
@@ -40,26 +40,7 @@ _______________________
 
 - Edición en imágenes bidimensionales y tridimensionales
 
-- Etc.
-
-
-c
-
-stock OBTENER_IDT(playerid,listitem)
-{
-    new slot,negls = 0;
-    for(new i = 0; i < 4; i++)
-    {
-        if(Info[playerid][Trabajo_Player][i] == 0) continue;
-        if(listitem <= negls)
-        {
-            slot = i;
-            break;
-        }
-        negls++;
-    }
-    return slot;
-}
+-Etc
 
 _______________________
 - 📫 Puede contactarme en: https://www.facebook.com/marthell.rowan
